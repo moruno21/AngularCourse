@@ -1,5 +1,7 @@
 # MyApp
 
+This is the first app of the course. Quite simple, just showing some ngifs and ngfors
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
 ## Development server

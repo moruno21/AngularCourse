@@ -1,5 +1,9 @@
 # Spotiapp
 
+An interesting app using the Spotify API. It shows some popular tracks and also you can look for the artists that you want
+
+IMPORTANT: You need a token to use the app. It is required by the Spotify API. You may need Postman or some other way to obtain the token.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
 ## Development server
